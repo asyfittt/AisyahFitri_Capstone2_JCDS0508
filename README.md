@@ -1,16 +1,13 @@
 # **Pendahuluan**
----
 <p>Industri transportasi di New York City, khususnya dalam layanan taksi dan transportasi berbasis aplikasi, menghadapi tantangan terkait dengan pengelolaan armada, dan efisiensi operasional. Dari analisis pola perjalanan yang dilakukan, ditemukan beberapa tren yang menunjukkan bahwa volume perjalanan cenderung meningkat pada jam sibuk pagi dan sore, dengan puncaknya pada hari Selasa. Selain itu, faktor-faktor seperti jarak perjalanan, durasi, dan jenis pemesanan memiliki pengaruh yang signifikan terhadap jumlah tip yang diterima pengemudi. Oleh karena itu, penting bagi berbagai stakeholder dalam ekosistem ini untuk memahami tren tersebut guna membuat keputusan yang lebih responsifberdasrkan data.
 
 Pentingnya pemahaman ini bertujuan untuk memaksimalkan potensi pendapatan, meningkatkan pengalaman pengguna, serta mengoptimalkan alokasi armada dan pengelolaan infrastruktur. Dengan insight yang diberikan, perusahaan transportasi, otoritas transportasi kota, dan platform pemesanan transportasi dapat merancang strategi yang lebih tepat sasaran, baik dari sisi operasional maupun pelayanan pelanggan.</p>
 # **Businees Objective**
----
 - Menyusun strategi untuk mengalokasikan kendaraan dengan lebih tepat berdasarkan waktu dan lokasi dengan volume perjalanan tinggi.
 - Menyediakan layanan yang lebih baik melalui penyesuaian algoritma pemesanan, fitur premium, dan pelatihan pengemudi.
 - Memberikan wawasan dan insentif kepada pengemudi untuk meningkatkan tip dengan memahami faktor-faktor yang memengaruhi jumlah tip.
 - Merancang kebijakan transportasi dan infrastruktur yang dapat mengakomodasi volume perjalanan yang tinggi, terutama di area-area dengan permintaan lebih besar.
 # **Stakeholders**
----
 Berikut ini rincian potensial stakeholders :
 #### 1. Perusahaan Transportasi atau Operator Taksi
 - Menggunakan wawasan tentang pola perjalanan untuk mengoptimalkan armada selama jam sibuk, hari tertentu, dan di lokasi strategis.
